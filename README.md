@@ -1,3 +1,3 @@
 # Python Introduction
 ## Authors
-Volker H.
+Volker Haider
